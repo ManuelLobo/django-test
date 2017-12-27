@@ -26,7 +26,7 @@ SECRET_KEY = '=3)4-$d@--*azo^6$+rw=p8+w$b^q47ewu3wakzn^9g+u_1k+m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hellsbath.pythonanywhere.com']
 
 
 # Application definition
